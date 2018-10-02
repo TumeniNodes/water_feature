@@ -1,0 +1,3 @@
+code: GNU Lesser General Public License, version 2.1
+
+default_water textures: RealBadAngel animated water (CC BY-SA 3.0): default_water_flowing_animated.png
